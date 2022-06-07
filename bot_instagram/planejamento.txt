@@ -1,0 +1,13 @@
+1. gera email aleatorio 
+2. gera um nome e sobrenome
+3. clica no gerador automatico de arrobas
+4. gera uma senha
+5. coloca a data de nascimento
+5. entra no instagram
+6. registra o email e a senha
+7. faz o login
+8. vai para o perfil da pessoa selecionada 
+9. segue o perfil
+10. cria um loop infinito
+
+pyinstaller --onefile .\main.py
